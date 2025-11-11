@@ -1,4 +1,4 @@
-# Paradigmas-TP4-IgnacioMilone
+# Paradigmas-TP4-IgnacioMilone-MauroAguilar-RamiroFernandez
 TP4 De la materia paradigmas de programacion hecho por
 - Ignacio Milone
 - Mauro Aguilar
